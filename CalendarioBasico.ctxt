@@ -2,4 +2,8 @@
 comment0.target=CalendarioBasico
 comment1.params=
 comment1.target=CalendarioBasico()
-numComments=2
+comment2.params=
+comment2.target=java.lang.String\ obtenerFecha()
+comment3.params=nuevoDia\ nuevoMes\ nuevoAno
+comment3.target=void\ fijarFecha(int,\ int,\ int)
+numComments=4
